@@ -11,3 +11,10 @@ body {
     min-height: 100vh;
     background-color: #474747;
 }
+
+#validation_form {
+    width: 400px;
+    padding: 20px;
+    text-transform: capitalize;
+    background-color: #fff;
+}
