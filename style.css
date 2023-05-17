@@ -42,4 +42,6 @@ body {
 .input_group i {
     position: absolute;
     right: 10px;
+    top: 35px;
 }
+
