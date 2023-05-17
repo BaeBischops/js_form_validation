@@ -45,3 +45,8 @@ body {
     top: 35px;
 }
 
+.input_group span {
+    font-size: 15px;
+    color: #ff0000;
+}
+
